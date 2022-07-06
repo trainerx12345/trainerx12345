@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @trainerx12345
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+trainerx12345/trainerx12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+This is a sample practice project if you have new suggestion feel free to contact me through sambusinesstransac@gmail.com
+I'm just new to git.. Please Understand.
