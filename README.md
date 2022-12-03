@@ -6,7 +6,7 @@
 
 - 💻 All of my projects are available at [https://github.com/trainerx12345](https://github.com/trainerx12345)
 
-- 📮 How to reach me **markencinares21@gmail.com**
+- 📮 How to reach me **samicorpuz1@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trainerx12345&label=Profile%20views&color=0e75b6&style=flat" alt="Sam" /></p>
 <!---
 trainerx12345/trainerx12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
