@@ -2,7 +2,7 @@
 
 - 🚧 I’m currently working on a project.
 
-- 📺 I’m currently learning **React and Laravel**
+- 📺 I’m currently learning **React Native and React Web**
 
 - 💻 All of my projects are available at [https://github.com/trainerx12345](https://github.com/trainerx12345)
 
