@@ -4,8 +4,6 @@
 
 - 📺 I’m currently learning **React Native and React Web**
 
-- 💻 All of my projects are available at [https://github.com/trainerx12345](https://github.com/trainerx12345)
-
 - 📮 How to reach me **samicorpuz1@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trainerx12345&label=Profile%20views&color=0e75b6&style=flat" alt="Sam" /></p>
 <!---
@@ -34,7 +32,7 @@ You can click the Preview link to take a look at your changes.
  
 <hr/>
 
-<p>
+<p align="center">
 <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=trainerx12345&show_icons=true&locale=en&theme=tokyonight" alt="mango-gills" /> 
 <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=trainerx12345&&theme=tokyonight" alt="mango-gills" />
 </p>
