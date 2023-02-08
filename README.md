@@ -5,6 +5,8 @@
 - 📺 I’m currently learning **React Native and React Web**
 
 - 📮 How to reach me **samicorpuz1@gmail.com**
+
+- ⓕ Get in touch with FB http://bit.ly/3YS7R4L
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trainerx12345&label=Profile%20views&color=0e75b6&style=flat" alt="Sam" /></p>
 <!---
 trainerx12345/trainerx12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
