@@ -6,7 +6,7 @@
 
 - 📮 How to reach me **samicorpuz1@gmail.com**
 
-- ⓕ Get in touch with FB http://bit.ly/3YS7R4L
+- ⓕ Get in touch with FB [https://bit.ly/3XiZd0U](https://bit.ly/3XiZd0U)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trainerx12345&label=Profile%20views&color=0e75b6&style=flat" alt="Sam" /></p>
 <!---
 trainerx12345/trainerx12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
