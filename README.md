@@ -37,7 +37,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=trainerx12345&show_icons=true&locale=en&theme=tokyonight" alt="sam-stats" /> 
 <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=trainerx12345&&theme=tokyonight" alt="sam-stats" />
-<img align="center" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=trainerx12345" alt="sam-stats" />
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trainerx12345&show_icons=true&theme=dark&locale=en&layout=compact" alt="sam-stats" /></p>
