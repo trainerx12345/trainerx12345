@@ -84,11 +84,7 @@ I'm a full-stack engineer who ships end-to-end: from database schema and API des
 
 - **Timesheet & Approval Workflow** — React + Tailwind app with custom design tokens mirroring shadcn/ui aesthetics; approval chains across organizational hierarchies.
 - **BorrowLog** — Node.js / Express / SQLite item-borrowing logbook with employee autocomplete backed by MySQL and schema migration handling.
-- **SoundAI** — Vite/React/Tone.js AI music SaaS with ElevenLabs TTS for neural vocal synthesis and procedural, section-aware composition.
-- **Nexus AI** — Local-first personal assistant hub (chat, memory, image gen, music, speech, code) running Ollama, Stable Diffusion, Whisper, and MusicGen on local GPU.
 - **POS System** — Full-stack React + Node/Express + MySQL with JWT auth, RBAC, inventory, Recharts analytics, held orders, keyboard shortcuts, and CSV export.
-- **Ran Online EP7 Launcher** — PHP admin panel + C# WPF desktop client with WebView2, plus a hardened admin panel after a multi-round security audit (36 fixes covering SQLi, XSS, CSRF, rate limiting).
-- **VoxForge** — Real-time voice changer, iterated from Python/Tkinter through multiple DSP passes and finally ported to C++ for performance parity with commercial tools.
 
 ---
 
