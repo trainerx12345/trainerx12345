@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a full-stack engineer who ships end-to-end: from database schema and API design to the last pixel of the UI. My day-to-day work spans **React/Vue web apps**, **Node.js and PHP backends**, and **C# WPF desktop clients**, often integrated into larger institutional systems. On the side, I build with **AI tooling** — local LLMs, music generation, voice synthesis, and self-hosted inference pipelines.
+I'm a full-stack engineer who ships end-to-end: from database schema and API design to the last pixel of the UI. My day-to-day work spans **React/Vue web apps**, **Node.js and PHP backends**, and **C# WPF desktop clients**, often integrated into larger institutional systems.
 
 - 🔭 Currently building production React apps (timesheet & approval workflows, logistics tools) and exploring **React Native** for mobile
 - 🌱 Learning **React Native** and deepening **React** on the web
